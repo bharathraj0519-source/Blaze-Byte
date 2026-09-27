@@ -1,0 +1,17 @@
+[functions.submit-customer-request]
+verify_jwt = false
+
+[functions.checkout-config-v2]
+verify_jwt = false
+
+[functions.create-razorpay-order-v2]
+verify_jwt = false
+
+[functions.verify-razorpay-payment-v2]
+verify_jwt = false
+
+[functions.get-payment-status-v2]
+verify_jwt = false
+
+[functions.razorpay-webhook-v2]
+verify_jwt = false

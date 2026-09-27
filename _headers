@@ -1,0 +1,28 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), payment=(self)
+  Cross-Origin-Opener-Policy: same-origin-allow-popups
+  Content-Security-Policy: base-uri 'self'; object-src 'none'; frame-ancestors 'self'; upgrade-insecure-requests
+
+/*.html
+  Cache-Control: no-cache, must-revalidate
+
+/
+  Cache-Control: no-cache, must-revalidate
+
+/assets/site.js
+  Cache-Control: no-cache, must-revalidate
+
+/assets/site.css
+  Cache-Control: no-cache, must-revalidate
+
+/site/index.html
+  Cache-Control: no-cache, must-revalidate
+
+/site/assets/site.js
+  Cache-Control: no-cache, must-revalidate
+
+/site/assets/site.css
+  Cache-Control: no-cache, must-revalidate
